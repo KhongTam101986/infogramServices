@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infogramApi", "infogramApi\infogramApi.csproj", "{DFF135E5-4AD9-4AC4-9597-82C824DF103E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF135E5-4AD9-4AC4-9597-82C824DF103E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF135E5-4AD9-4AC4-9597-82C824DF103E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF135E5-4AD9-4AC4-9597-82C824DF103E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF135E5-4AD9-4AC4-9597-82C824DF103E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBBE9C72-0F95-4170-BDBA-0E517C78DEB9}
+	EndGlobalSection
+EndGlobal
